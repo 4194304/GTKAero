@@ -1,6 +1,6 @@
-# GTKAero
-A fork of B00MERANG Project's Windows 7 GTK theme made to integrate better with [aerothemeplasma](https://gitgud.io/wackyideas/aerothemeplasma/). Also makes thunar look more Windows 7's explorer.\
-<img src="screenshots/save.png" alt="Desktop"/>\
+# GTKVista
+A fork of User738git's GTKAero theme, which itself is a fork of B00MERANG Project's Windows 7 GTK theme. This theme is made to integrate better with [VistaThemePlasma](https://gitgud.io/catpswin56/vistathemeplasma/). Also makes thunar look more Windows Vista's explorer.\
+<img src="https://fluorine.sh/images/Screenshot_20250411_121846.png" alt="Desktop"/>\
 A picture of thunar with this theme and icon theme.
 
 ## Installation
@@ -66,9 +66,11 @@ Perhaps it might be possible to add such functionality in the future, but I am n
 
 ### Bugs + issues
 - Some buttons might look strange.
-- Not able to make the font in Thunar's sidebar normal or "not bold" yet.
+- Not able to make the font in Thunar's sidebar "not bold" yet (I'll get around to fixing this)
+- No commandbar gradient (right now it's just blue)
 
 ### Forked code:
+- [GTKAero](https://github.com/User738git/GTKAero)
 - [Windows 7 GTK](https://github.com/B00merang-Project/Windows-7)
 - [Chicago95](https://github.com/grassmunk/chicago95) (Some thunar code).
 - [aerothemeplasma](https://gitgud.io/wackyideas/aerothemeplasma/) (Icon theme licensed under AGPLv3).
