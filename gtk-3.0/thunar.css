@@ -8,6 +8,7 @@ Stack all related and child selectors and selector states into a logical hierarc
 Make sure that all changes made here are part of the Thunar application.
 */
 
+
 .thunar #location-toolbar toolbutton button:not(:hover):not(:checked):not(:active),
 .thunar #back button,
 .thunar #location-toolbar #forward button {
@@ -111,7 +112,7 @@ Make sure that all changes made here are part of the Thunar application.
 .thunar treeview {
   padding-left: 3px;
   font-weight: normal;
-  font-family: 'Segoe UI Symbol';
+  font-family: 'Segoe UI';
   font-size: 12px;
 }
 
@@ -252,7 +253,6 @@ Make sure that all changes made here are part of the Thunar application.
     background: linear-gradient(#dceafc #c6dffc); }
 
 .treeview {
-  font-family: tahoma;
   font-weight: 1px;
 }
 
@@ -267,7 +267,6 @@ Make sure that all changes made here are part of the Thunar application.
   color: #000;
   background-color: transparent;
   font-weight: normal;
-  font-family: Tahoma;
 }
 
 .caja-side-pane scrolledwindow {

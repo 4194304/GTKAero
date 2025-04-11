@@ -18,7 +18,8 @@
   outline-offset: -3px;
   outline-style: dashed;
   outline-color: shade(#F0F0F0, 0.75);
-  -gtk-outline-radius: 0; }
+  -gtk-outline-radius: 0;
+}
 
 .background {
   color: #000000;
