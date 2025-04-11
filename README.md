@@ -1,6 +1,6 @@
 # GTKVista
 A fork of User738git's GTKAero theme, which itself is a fork of B00MERANG Project's Windows 7 GTK theme. This theme is made to integrate better with [VistaThemePlasma](https://gitgud.io/catpswin56/vistathemeplasma/). Also makes thunar look more Windows Vista's explorer.\
-<img src="src/save.png" alt="Desktop"/>\
+<img src="/src/save.png" alt="Desktop"/>\
 A picture of thunar with this theme and icon theme.
 
 ## Installation
